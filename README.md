@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 10willstewart@gmail.com
+- 📫 How to reach me william.stewart@dft.gov.uk
 
 <!---
 Wstewart10/Wstewart10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
